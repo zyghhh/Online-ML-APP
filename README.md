@@ -1,5 +1,8 @@
 # Online Machine Learning App
-Based on my graduation thesis research, I have developed an online machine learning application platform using the Streamlit framework. This platform utilizes Python 3.9 and extends the open-source online machine learning library River. It integrates the data-oriented development framework Streamlit and addresses the challenges of data mining in concept drift data streams. The platform provides evaluation criteria based on accuracy, time, and memory consumption, as well as various evaluation metrics for regression or classification problems. It aims to configure suitable and efficient online learning algorithms for complex data streams generated in different real-world production environments.
+Based on my graduation thesis research,which proposes a Window Performance Weighted Probability Ensemble (WPWPE) framework. Experimental results demonstrate that the proposed ensemble framework performs exceptionally well on both real-world and synthetic datasets. Compared to other popular algorithms, this framework exhibits improvements in stability, classification accuracy, efficiency, and adaptability to various types of concept drift. Moreover, it achieves leading performance in certain network intrusion datasets.
+ I have developed an online machine learning application platform using the Streamlit framework. This platform utilizes Python 3.9 and extends the open-source online machine learning library River. It integrates the data-oriented development framework Streamlit and addresses the challenges of data mining in concept drift data streams. The platform provides evaluation criteria based on accuracy, time, and memory consumption, as well as various evaluation metrics for regression or classification problems. It aims to configure suitable and efficient online learning algorithms for complex data streams generated in different real-world production environments.
+
+
 
 ## Introduction to Files
 ### app.py
